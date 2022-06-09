@@ -1,12 +1,12 @@
-package com.mono.lib.config;
+package io.github.ekrosrb.mono.lib.config;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.mono.lib.model.Client;
-import com.mono.lib.model.Currency;
-import com.mono.lib.model.Webhook;
+import io.github.ekrosrb.mono.lib.model.Client;
+import io.github.ekrosrb.mono.lib.model.Currency;
+import io.github.ekrosrb.mono.lib.model.Webhook;
 import java.util.List;
 import org.junit.jupiter.api.Test;
 

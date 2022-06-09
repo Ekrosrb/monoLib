@@ -1,13 +1,13 @@
-package com.mono.lib.config;
+package io.github.ekrosrb.mono.lib.config;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.mono.lib.model.Client;
-import com.mono.lib.model.Currency;
-import com.mono.lib.model.Statement;
-import com.mono.lib.model.Webhook;
+import io.github.ekrosrb.mono.lib.model.Client;
+import io.github.ekrosrb.mono.lib.model.Currency;
+import io.github.ekrosrb.mono.lib.model.Statement;
+import io.github.ekrosrb.mono.lib.model.Webhook;
 import java.util.ArrayList;
 import java.util.List;
 

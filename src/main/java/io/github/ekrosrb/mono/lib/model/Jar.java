@@ -1,4 +1,4 @@
-package com.mono.lib.model;
+package io.github.ekrosrb.mono.lib.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
